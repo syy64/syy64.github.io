@@ -6,6 +6,18 @@ body {
   padding: 0;
   line-height: 1.6;
 }
+profile-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+profile-pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
 
 header {
   background-color: #1e3a8a;
